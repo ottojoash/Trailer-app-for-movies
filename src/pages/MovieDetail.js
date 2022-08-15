@@ -61,7 +61,7 @@ const MovieDetail = () => {
               </li>
               <li className="list-group-item">
                 <Link to={-1} className="card-link">
-                  Go Back
+                  Go Back..
                 </Link>
               </li>
             </ul>
